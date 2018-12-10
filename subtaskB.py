@@ -1,4 +1,4 @@
-#branch of pytorchtry
+#branch of pytorchtry 2 master
 from __future__ import unicode_literals, print_function, division
 from io import open
 from gensim.models import Word2Vec 
