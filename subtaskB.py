@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #branch of pytorchtry 2 master
+=======
+#branch of pytorchtry test in pytorchtry branch
+>>>>>>> pytorchtry
 from __future__ import unicode_literals, print_function, division
 from io import open
 from gensim.models import Word2Vec 
